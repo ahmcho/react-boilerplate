@@ -1,3 +1,3 @@
-# ExpensifyApp
-ExpensifyApp is a React application for managing your expenses. It uses Redux, SCSS.
+# Boilerplate
+Boilerplate for React projects. It uses Redux, SCSS, Firebase.
 
